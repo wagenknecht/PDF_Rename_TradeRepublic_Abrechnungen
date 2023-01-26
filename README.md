@@ -3,8 +3,8 @@ Installation der Bibliothek PyMuPDF
 
 <code>python -m pip install --upgrade pymupdf</code>
 
-#Ausführung
+# Ausführung
 main.py starten
 
-#Hinweis
+# Hinweis
 Da vieles hardcoded ist, kann das Script schnell veralten.
